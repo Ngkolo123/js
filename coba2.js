@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BitTube No Offline TIMER
+// @name         BitTube No Offline
 // @namespace    http://tampermonkey.net/
 // @version      1.0.3
 // @description  BitTube Never Stop Ever Again
@@ -18,8 +18,12 @@
     
 
     var fileme = [
-        'dasar lo anjay',
-
+        'https://bit.tube/play?hash=BR4a8hEPeV60rQuF2dkf&channel=87497',
+        'https://bit.tube/play?hash=BR2aFqBNyFJpttqAYAZd&channel=87497',
+        'https://bit.tube/play?hash=BRVJR8cJ3kA8KaPQrNCj&channel=36465',
+        'https://bit.tube/play?hash=BRSQgiFLsW7y3tH8aFwe&channel=36465',
+        'https://bit.tube/play?hash=BRSQgiFLsW7y3tH8aFwe&channel=36465',
+        'https://bit.tube/play?hash=BRPylq7BDgdDsCPvY1TQ&channel=147507',
     ];
     
     setInterval(mySearch, 5000);
@@ -46,7 +50,7 @@
         return (Math.floor(Math.random() * (max - min)) + min) * 1000;
     }
 
-    setInterval(reloadOk, getRndInteger(5760, 7200));
+    setInterval(reloadOk, getRndInteger(3600, 6300));
 
     function reloadOk() {
         window.location.href = random_item(fileme)
