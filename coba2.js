@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BitTube No Offline TIMER
 // @namespace    http://tampermonkey.net/
-// @version      1.0.2
+// @version      1.0.3
 // @description  BitTube Never Stop Ever Again
 // @author       ReaperBot
 // @updateURL    https://raw.githubusercontent.com/Ngkolo123/js/master/coba2.js
@@ -18,7 +18,7 @@
     
 
     var fileme = [
-        'before',
+        'dasar lo anjay',
 
     ];
     
