@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BitTube No Offline
 // @namespace    http://tampermonkey.net/
-// @version      1.0.4
+// @version      1.0.5
 // @description  BitTube Never Stop Ever Again
 // @author       ReaperBot
 // @updateURL    https://raw.githubusercontent.com/Ngkolo123/js/master/coba2.js
