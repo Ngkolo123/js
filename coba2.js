@@ -18,12 +18,12 @@
     
 
     var fileme = [
-        'https://bit.tube/play?hash=BR0g8OFHEBm9x8Z7HUMB&channel=36465',
-        'https://bit.tube/play?hash=BRxrIKGX2F5NanlSRyKW&channel=36465',
-        'https://bit.tube/play?hash=BRh8kCis3qowgIcxdwJW&channel=87497',
-        'https://bit.tube/play?hash=BRGax85LinQ5bvP7DvPb&channel=87497',
-        'https://bit.tube/play?hash=BRLDt5un7ug9TyDuw4ty&channel=147507&for=fps',
-        'https://bit.tube/play?hash=BR1kCJHkChuZ2jv6rnuV&channel=147507&for=fps',
+        'https://bit.tube/play?hash=BRAZbHx7WB9f9lhiTQm8&channel=87497',
+        'https://bit.tube/play?hash=BR7jtjitVVCwObHekAG7&channel=87497',
+        'https://bit.tube/play?hash=BRMWaKrz4Q87DzHsAo5s&channel=36465',
+        'https://bit.tube/play?hash=BR1vAlQ8117O2IGt7v2d&channel=36465',
+        'https://bit.tube/play?hash=BR1fVtyMLThiebo3TyKD&channel=147507',
+        'https://bit.tube/play?hash=BRGv1b3dhVLwLRUZu6uu&channel=147507',
     ];
     
     setInterval(mySearch, 5000);
