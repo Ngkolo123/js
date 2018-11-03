@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BitTube No Offline
 // @namespace    http://tampermonkey.net/
-// @version      1.1.0
+// @version      1.1.1
 // @description  BitTube Never Stop Ever Again
 // @author       ReaperBot
 // @updateURL    https://raw.githubusercontent.com/Ngkolo123/js/master/coba2.js
@@ -19,7 +19,7 @@
 
     var fileme = [
         'https://bit.tube/play?hash=BRNe9EuCqzn0UdufVtyz&channel=36465',
-        'https://bit.tube/play?hash=BRoP4KBFbTdfEsa6maFc&channel=36465',
+        'https://bit.tube/play?hash=BRTUorcB1Z6lP8tFaW5T&channel=36465',
         'https://bit.tube/play?hash=BRGAwdrPL0PtZYspsEyP&channel=87497',
         'https://bit.tube/play?hash=BR3h5YAPVzZWRPX5tyEh&channel=87497',
         'https://bit.tube/play?hash=BREC0gZP9NHsGbYsX22h&channel=147507',
