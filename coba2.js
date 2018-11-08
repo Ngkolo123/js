@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BitTube No Offline
 // @namespace    http://tampermonkey.net/
-// @version      1.1.3
+// @version      1.1.4
 // @description  BitTube Never Stop Ever Again
 // @author       ReaperBot
 // @updateURL    https://raw.githubusercontent.com/Ngkolo123/js/master/coba2.js
@@ -18,12 +18,12 @@
     
 
     var fileme = [
-        'https://bit.tube/play?hash=BRJDcIwuEulyObo21Vit&channel=36465',
-        'https://bit.tube/play?hash=BRvGSmJSlFkgT0TvbwX1&channel=36465',
-        'https://bit.tube/play?hash=BRjPM19v8h0eLhOSsvdY&channel=87497',
-        'https://bit.tube/play?hash=BRqfr1UZGdBwvwDT8hXu&channel=87497',
-        'https://bit.tube/play?hash=BR17iQVbAp39172kzCNc&channel=147507',
-        'https://bit.tube/play?hash=BRmGnsHybHQYl6v6zlGc&channel=147507',
+        'https://bit.tube/play?hash=BRnlUvktwEqEQAsUJfCo&channel=36465',
+        'https://bit.tube/play?hash=BRpBiNBkosabmINGNcdO&channel=36465',
+        'https://bit.tube/play?hash=BRwUIXOHcIIdmadXuz5n&channel=87497',
+        'https://bit.tube/play?hash=BRBZhUjcf6K09SZNpvyn&channel=87497',
+        'https://bit.tube/play?hash=BRiTR776D3vlptITe428&channel=147507',
+        'https://bit.tube/play?hash=BRvmcc1NTDZANNyIKIyf&channel=147507',
     ];
     
     setInterval(mySearch, 5000);
